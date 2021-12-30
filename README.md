@@ -39,7 +39,7 @@ At WebDevStudios we love to write documentation! We also love standards, linting
 Close the repo:
 
 ```console
-git clone git@github.com:WebDevStudios/docusaurus-starter.git
+git clone git@github.com:wpdew/docusaurus-starter.git
 ```
 
 Install dependencies:
